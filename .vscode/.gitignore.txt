@@ -1,0 +1,15 @@
+
+# Frontend dependencies and build files
+stockfrontend/node_modules/
+stockfrontend/dist/
+
+# Python backend
+backend/__pycache__/
+backend/.venv/
+backend/venv/
+backend/*.pyc
+
+# Environment secrets
+.env
+.env.*
+!.env.example
